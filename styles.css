@@ -1,0 +1,104 @@
+body {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: #f7fafa;
+    color: #0C1A3D;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 10px;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+#jessicookies-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #3559c7;
+    margin-bottom: 10px;
+}
+
+#jessicookies-intro {
+    color: #536772;
+}
+
+#jessicookies-blurb {
+    color: #536772;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+
+#header {
+    color: #0C1A3D;
+}
+
+.cookie-section {
+    margin-bottom: 10px;
+}
+
+.cookie-title {
+    color: #0C1A3D;
+    font-size: 20px;
+}
+
+#cookie-img-marshall {
+    background-position: center;
+}
+
+#cookie-img-jess {
+    background-position: center;
+}
+
+#cookie-img-johnny {
+    background-position: center;
+}
+
+#cookie-img-band {
+    background-position: center;
+}
+
+#cookie-img-domicile {
+    background-position: center;
+}
+
+.cookie-img {
+    margin: 10px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid #3559C7;
+    border-radius: 10px;
+    background-image: url("images/cookie.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#cookie-img-jess:hover {
+    background-image: url("images/jess-cookie.jpg");
+}
+
+#cookie-img-role:hover {
+    background-image: url("images/fortune-one.jpg");
+}
+
+#cookie-img-quip:hover {
+    background-image: url("images/fortune-two.jpg");
+}
+
+#cookie-img-rip:hover {
+    background-image: url("images/grinder-paper.gif");
+}
+
+#footer {
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: whitesmoke;
+}
+
